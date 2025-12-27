@@ -33,7 +33,7 @@ This collection includes scripts covering:
 Since 2020, **Kajotte Studio** has been bridging the gap between programming, photography, music production, and filmmaking. We believe in sharing knowledge through high-quality code and professional visual storytelling.
 
 * **Portfolio & Downloads:** [kajotte-studio.com](https://kajotte-studio.com)
-* **Inquiries:** [office@kajotte-studio.com](mailto:office@kajotte-studio.com)
+* **Inquiries:** [help@kajotte-studio.com](mailto:help@kajotte-studio.com)
 
 ---
 <div align="center">
