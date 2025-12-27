@@ -18,5 +18,5 @@ How to use
 About Kajotte Studio
 Since 2020, Kajotte Studio has been bridging the gap between programming, photography, music production, and filmmaking. We believe in sharing knowledge through high-quality code and visual storytelling.
  * Portfolio & Downloads: https://kajotte-studio.com
- * Inquiries: office@kajotte-studio.com
+ * Inquiries: help@kajotte-studio.com
 (c) 2025 Kajotte Studio. Precision in every line.
